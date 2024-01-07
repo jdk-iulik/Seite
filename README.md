@@ -11,8 +11,8 @@ Thema des Projektes: IT-Consolting
 #### Unter der Leitung von: Peter Lübke 
 
 #### Kurze Beschreibung:
-    Der erste Abschnitt der Seite hat das Menü(Üder uns, Vision, It-Consolting, Marketing, Web Design, Galerie, Komtakt), das Logo und eine Video-Begrüsung. 
-    Jeder Punk von Menü-Bar ist mit einem Teil der Seite verknüpftet. 
+    Der erste Abschnitt der Seite hat das Menü(Üder uns, Vision, It-Consolting, Marketing, Web Design, Galerie, Komtakt),
+    das Logo und eine Video-Begrüsung. Jeder Punk von Menü-Bar ist mit einem Teil der Seite verknüpftet. 
     Am Ende der Seite befindet sich das Kontaktformular und die DAtenschuts und Impressum.
 
    
